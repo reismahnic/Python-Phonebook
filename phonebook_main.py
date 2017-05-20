@@ -16,7 +16,7 @@
     this is Syntax to declare the encoding of a Python source file.
 """
 #
-# Python Ver:   3.5.1
+# Python Ver:   3.6.1
 #
 # Author:       Reis Mahnic
 #

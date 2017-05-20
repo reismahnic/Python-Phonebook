@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 #
-# Python Ver:   3.5.1
+# Python Ver:   3.6.1
 #
 # Author:       Reis Mahnic
 #
